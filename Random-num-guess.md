@@ -17,4 +17,16 @@ To convert between data types use the following:
 
     num=int(numberString)
 #### Logic ####
-Logical operators are used for by the 
+Logical operators and conditional statments are used by the computer to make decisions. 
+
+       if (name=="Yasas"):
+            ....
+        else:
+            ....
+The operators `and`, `or` can also be used. 
+#### Random ####
+To generate random nummber we must import a module called random. 
+
+    import random
+    rand_I=random.randint(min,max)
+    
