@@ -13,4 +13,6 @@ Python has many different data types some of the main ones are:
 
 String(`str`)   Integer(`int`)   Float(`float`)  Boolean(`bool`)
 
+To convert between data types use the following:
 
+     num=int(numberString)
