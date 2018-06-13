@@ -15,4 +15,6 @@ String(`str`)   Integer(`int`)   Float(`float`)  Boolean(`bool`)
 
 To convert between data types use the following:
 
-     num=int(numberString)
+    num=int(numberString)
+#### Logic ####
+Logical operators are used for by the 
