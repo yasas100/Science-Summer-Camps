@@ -40,3 +40,5 @@ If you have finished the first part of this program and have got it checked over
 Now put this program in a loop so the program will automaticaly restart once if the user selects the wrong anwser. 
 #### Extension 2 #### 
 Add lives so the user has 3 guesses for the same random number. 
+#### Extension 3 #### 
+Make the program say if the users guess is higher or lower than the random number. 
