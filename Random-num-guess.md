@@ -16,11 +16,11 @@ Python has many different data types some of the main ones are:
 
 String(`str`)   Integer(`int`)   Float(`float`)  Boolean(`bool`)
 
-To convert between data types use the following:
+To convert between data types, use the following:
 
     num=int(numberString)
 #### Logic ####
-Logical operators and conditional statments are used by the computer to make decisions. 
+Logical operators and conditional statements are used by the computer to make decisions. 
 
        if (name=="Yasas"):
             ....
@@ -28,17 +28,17 @@ Logical operators and conditional statments are used by the computer to make dec
             ....
 The operators `and`, `or` can also be used. 
 #### Random ####
-To generate random nummber we must import a module called random. 
+To generate random number, we must import a module called random. 
 
     import random
     rand_I=random.randint(min,max)
     
 ## Extension ##
-If you have finished the first part of this program and have got it checked over move on to these extentions. 
+If you have finished the first part of this program and have got it checked over move on to these extensions. 
 
 #### Extension 1 ####
-Now put this program in a loop so the program will automaticaly restart once if the user selects the wrong anwser. 
+Now put this program in a loop so the program will automatically restart once if the user selects the wrong answer. 
 #### Extension 2 #### 
 Add lives so the user has 3 guesses for the same random number. 
 #### Extension 3 #### 
-Make the program say if the users guess is higher or lower than the random number. 
+Make the program say if the users guess is higher or lower than the random number.
